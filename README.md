@@ -5,8 +5,11 @@ Well I carried out an analysis to determine that, and it turns out Covid 19 is n
 This report shows analysis of Covid 19 data from January 2020 to September 2023.
 
 **Tools** used: SQL and Tableau
-I could sit with this Data for 2 months and still be deriving insights. However, I just pick a few important insight to display in the dashboard. I displayed more and detailed analysis in SQL report where I used lots of CTE’s and subquery to derive deeper insight. You can view the analysis done on SQL here Covid19-Analysis/Covid 19 Data Exploration.sql at main · Awanieva/Covid19-Analysis (github.com)
-To view and interact with the Tableau Dashboard: Covid 19 Dashoard | Tableau Public
+I could sit with this Data for 2 months and still be deriving insights. However, I just pick a few important insight to display in the dashboard. I displayed more and detailed analysis in SQL report where I used lots of CTE’s and subquery to derive deeper insight.
+
+You can view the analysis done on SQL here: https://github.com/Awanieva/Covid19-Analysis
+
+To view and interact with the Tableau Dashboard: https://public.tableau.com/app/profile/confidence4548/viz/Covid19Dash_16953221331430/Dashboard
 
 - Europe recorded the continent with highest number of death followed by Asia 
 - United States has the highest Covid 19 cases with 103,436,829 and highest number of deaths 1,127,152 death
