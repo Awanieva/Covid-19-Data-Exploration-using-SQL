@@ -1,5 +1,5 @@
 # Covid19-Analysis
-
+m 
 IS COVID 19 STILL A THING?
 Well I carried out an analysis to determine that, and it turns out Covid 19 is not really a thing at the moment compared to 2020/2021.
 This report shows analysis of Covid 19 data from January 2020 to September 2023.
